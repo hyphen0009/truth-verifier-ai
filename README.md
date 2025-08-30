@@ -209,4 +209,4 @@ We welcome contributions! Please feel free to:
 
 ---
 
-**Built with ❤️ by Team Hyphen - Making the internet more truthful, one verification at a 
+**Built with ❤️ by Team Hyphen - Making the internet more truthful.**
