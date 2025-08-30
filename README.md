@@ -31,7 +31,7 @@ A powerful AI-powered application that analyzes social media content for authent
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://share.google/6XaoY2Hjvb5VfjMJf
    cd truth-verifier-ai
    ```
 
