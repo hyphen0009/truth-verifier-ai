@@ -195,8 +195,8 @@ We welcome contributions! Please feel free to:
 
 ## 👥 Team Hyphen
 
-- **MD Zaid** - Full Stack Development & AI Integration
-- **Manjeet Kumar Kesri** - UI/UX Design & Frontend Development
+- **MD Zaid** 
+- **Manjeet Kumar Kesri** 
 
 ## 🙏 Acknowledgments
 
